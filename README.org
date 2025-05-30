@@ -86,7 +86,7 @@ cmake and creating Debian packages.
 
 ** Homebrew
 In [[https://github.com/tpwo/homebrew-vobsub2srt/blob/main/Formula/vobsub2srt.rb][tpwo/homebrew-vobsub2srt]]
-repo there is a formula for [[http://mxcl.github.com/homebrew/][Homebrew]] (a package manager for OS X).  It can
+repo there is a formula for [[https://brew.sh/][Homebrew]] (a package manager for OS X).  It can
 be used to install VobSub2SRT by using the following commands:
 
 #+BEGIN_EXAMPLE
