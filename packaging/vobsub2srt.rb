@@ -4,7 +4,7 @@
 require 'formula'
 
 class Vobsub2srt < Formula
-  head 'git://github.com/tpwo/VobSub2SRT.git', :using => :git
+  head 'https://github.com/tpwo/VobSub2SRT.git', :using => :git
   homepage 'https://github.com/tpwo/VobSub2SRT'
 
   depends_on 'cmake'
