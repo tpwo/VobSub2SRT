@@ -89,8 +89,8 @@ Vobsub2srt contains a formula for [[http://mxcl.github.com/homebrew/][Homebrew]]
 be installed by using the following commands:
 
 #+BEGIN_EXAMPLE
-  brew install --with-all-languages tesseract
-  brew install --HEAD https://github.com/tpwo/VobSub2SRT/raw/master/packaging/vobsub2srt.rb
+  brew tap tpwo/vobsub2srt
+  brew install --HEAD tpwo/vobsub2srt/vobsub2srt
 #+END_EXAMPLE
 
 ** Gentoo ebuild
