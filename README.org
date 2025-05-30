@@ -85,8 +85,9 @@ You can also create a source package and upload it to your own PPA by using the
 cmake and creating Debian packages.
 
 ** Homebrew
-Vobsub2srt contains a formula for [[http://mxcl.github.com/homebrew/][Homebrew]] (a package manager for OS X).  It can
-be installed by using the following commands:
+In [[https://github.com/tpwo/homebrew-vobsub2srt/blob/main/Formula/vobsub2srt.rb][tpwo/homebrew-vobsub2srt]]
+repo there is a formula for [[http://mxcl.github.com/homebrew/][Homebrew]] (a package manager for OS X).  It can
+be used to install VobSub2SRT by using the following commands:
 
 #+BEGIN_EXAMPLE
   brew tap tpwo/vobsub2srt
